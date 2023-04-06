@@ -1,4 +1,4 @@
-import "./style.css";
+import "./css/style.css";
 import app from "./render";
 
 let password: string = "";

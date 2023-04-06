@@ -28,7 +28,6 @@ const app: string = `
 <div class="form-control">
   <label for="password">Senha</label>
   <input
-    type="text"
     type="password"
     id="password"
     placeholder="Digite a sua senha"
@@ -66,8 +65,7 @@ const app: string = `
 <div class="form-control">
   <label for="confirmpassword">Confirmação de Senha</label>
   <input
-    type="text"
-    type="confirmpassword"
+    type="password"
     id="confirmpassword"
     placeholder="Confirme a sua senha"
   />
