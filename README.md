@@ -15,17 +15,15 @@ Modelo de formulário moderno, onde é possível pedir para o site gerar uma ou 
 <!-- ### [Testar / preview](https://matealves.github.io/react-imc-calculator/dist/) <br><br> -->
 
 <p id="start"></p>
-<br>
 
 ### - Instalação:
 
-`npm install`
+### `npm install`
 
 ### - Rodar no server local:
 
-`npm run dev`
+### `npm run dev`
 
-<br>
 <br>
 
 <p id="leng"></p>
